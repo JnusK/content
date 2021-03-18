@@ -1,0 +1,27 @@
+{
+  "description": [
+    "This egg-based version of the classic chocolate mousse is lighter than the cream version and is probably healthier too."
+  ],
+  "ingredients": [
+    {
+      "name": "egg",
+      "quantity": 2,
+      "unit":"medium"
+    },
+    {
+      "name": "chocolate (at least 60% cocoa)",
+      "quantity": 60,
+      "unit":"g"
+    },
+    {
+      "name": "sugar (or to taste, can skip)",
+      "quantity": 1.5,
+      "unit":"tsp"
+    }
+  ],
+  "steps": [
+    "Break the chocolate into pieces and put in a bowl over, but not touching, a pan of simmering water. When the chocolate begins to melt, turn the heat off. Separate the eggs.",
+    "Whisk the egg whites into soft peaks, add the sugar, and whisk briefly.",
+    "Mix the egg yolks quickly into the melted chocolate and then whisk in a third of the egg white. Fold the rest very gently into the mixture until just combined (be careful not to overmix), and then put into bowls and refrigerate for at least four hours until set."
+  ]
+}

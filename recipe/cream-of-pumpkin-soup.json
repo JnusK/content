@@ -1,0 +1,37 @@
+{
+  "description": [
+    "A thick, decadent soup, this silky soup is easy to prepare. The natural sweetness of pumpkin complements the savoury chicken stock.",
+    "The extra step of straining the soup through a fine mesh is time consuming but will elevate the texture of the soup."
+  ],
+  "ingredients": [
+    {
+      "name": "pumpkin",
+      "quantity": 1,
+      "unit":"Kg"
+    },
+    {
+      "name": "double cream",
+      "quantity": 140,
+      "unit":"ml"
+    },
+    {
+      "name": "olive oil",
+      "quantity": 2,
+      "unit":"tbsp"
+    },
+    {
+      "name": "chicken broth",
+      "quantity": 700,
+      "unit":"ml"
+    },
+    {
+      "name": "yellow onion",
+      "quantity": 2,
+      "unit":"large"
+    }
+  ],
+  "steps": [
+    "Heat 2 tbsp olive oil in a large saucepan, then gently cook 2 finely chopped onions for 5 mins, until soft but not coloured. Add 1kg peeled, de-seeded and chopped pumpkin or squash to the pan, then carry on cooking for 8-10 mins, stirring occasionally until it starts to soften and turn golden.",
+    "Pour 700ml vegetable stock into the pan, then season with salt and pepper. Bring to the boil, then simmer for 10 mins until the squash is very soft. Pour the 142ml pot of double cream into the pan, bring back to the boil, then purée with a hand blender. For an extra-velvety consistency you can now push the soup through a fine sieve into another pan. The soup can now be frozen for up to 2 months."
+  ]
+}
